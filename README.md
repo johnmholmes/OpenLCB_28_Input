@@ -47,7 +47,7 @@ Make sure you have the following libraries installed in your Arduino IDE:
    - Power the MCP23017 and tie address pins (A0, A1, A2) to GND to set address `0x20`.
 2. **Upload Sketch:** Open the `.ino` sketch in the Arduino IDE, select your ESP32 board, and upload.
 3. **JMRI Configuration:**
-   - Open JMRI (e.g., DecoderPro).
+   - Open JMRI (e.g., PanelPro, LCCPro).
    - Open the **CDI (Configuration Description Information)** for the node.
    - You will see the inputs cleanly separated into 4 groups of 7:
      - *ESP32 Direct Inputs (Group 1)*
