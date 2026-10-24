@@ -50,8 +50,8 @@ Make sure you have the following libraries installed in your Arduino IDE:
    - Open JMRI (e.g., DecoderPro).
    - Open the **CDI (Configuration Description Information)** for the node.
    - You will see the inputs cleanly separated into 4 groups of 7:
-     - *ESP32 Direct Inputs (Part 1)*
-     - *ESP32 Direct Inputs (Part 2)*
+     - *ESP32 Direct Inputs (Group 1)*
+     - *ESP32 Direct Inputs (Group 2)*
      - *MCP23017 Port A Inputs*
      - *MCP23017 Port B Inputs*
    - Assign input types, descriptions, and EventIDs as needed.
